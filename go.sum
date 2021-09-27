@@ -4,6 +4,10 @@ github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 h1:El6M4kTTCOh6aBiKaU
 github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510/go.mod h1:pupxD2MaaD3pAXIBCelhxNneeOaAeabZDe5s4K6zSpQ=
 github.com/libgit2/git2go/v28 v28.8.14 h1:kq59PJUwoOkYAh5OjdkcEcsAcIo/i6buvnsvyr5L5QY=
 github.com/libgit2/git2go/v28 v28.8.14/go.mod h1:9kpaW/XwztvX+DxtaK2AWANS/VElepfMrAw+djRtwlQ=
+github.com/libgit2/git2go/v31 v31.6.1 h1:FnKHHDDBgltSsu9RpKuL4rSR8dQ1JTf9dfvFhZ1y7Aw=
+github.com/libgit2/git2go/v31 v31.6.1/go.mod h1:c/rkJcBcUFx6wHaT++UwNpKvIsmPNqCeQ/vzO4DrEec=
+github.com/libgit2/git2go/v32 v32.0.4 h1:qK2yWGh88K2Gh76E1+vUEsjKDfOAq0J2THKaoaFIPbA=
+github.com/libgit2/git2go/v32 v32.0.4/go.mod h1:FAA2ePV5PlLjw1ccncFIvu2v8hJSZVN5IzEn4lo/vwo=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20201203163018-be400aefbc4c h1:9HhBz5L/UjnK9XLtiZhYAdue5BVKep3PMmS2LuPDt8k=
 golang.org/x/crypto v0.0.0-20201203163018-be400aefbc4c/go.mod h1:jdWPYTVW3xRLrWPugEBEK3UY2ZEsg3UU495nc5E+M+I=

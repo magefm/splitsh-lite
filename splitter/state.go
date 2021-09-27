@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	git "github.com/libgit2/git2go/v28"
+	git "github.com/libgit2/git2go/v31"
 )
 
 type state struct {
